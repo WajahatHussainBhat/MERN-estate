@@ -20,7 +20,7 @@ const App = () => {
         Route path = "/sign-in"
         element = { < SignIn / > }
         />{" "} <
-        Route path = "/sign-out"
+        Route path = "/sign-up"
         element = { < SignUp / > }
         />{" "} <
         Route path = "/profile"
